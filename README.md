@@ -124,7 +124,3 @@ git push origin main
 This project is for **educational and research purposes** only.
 OWASP Juice Shop is licensed under [GNU AGPL v3.0](https://github.com/juice-shop/juice-shop/blob/master/LICENSE).
 
----
-
-👉 Do you want me to also add **badges** (pipeline status, license, Docker pulls, etc.) at the top of the README for extra polish?
-
